@@ -66,10 +66,11 @@ h4 {
 
 p {
   margin: 15px 0;
+  color: $white;
 }
 
 a {
-  color: $blue;
+  color: $white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
