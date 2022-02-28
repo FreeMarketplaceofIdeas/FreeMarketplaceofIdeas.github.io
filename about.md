@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Started by a group of friends, the Free Marketplace of Ideas acts as a platform for students and laypeople to freely express their ideas in an unbiased environment. NOTE: The views expressed by articles on the free marketplace of ideas do not necessarily represent the views of the founders of the free marketplace of ideas.
