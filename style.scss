@@ -17,6 +17,11 @@ html {
   font-size: 100%;
 }
 
+title {
+  font-family: $helveticaNeue;
+  color: $white;
+  font-weight: bold;
+
 body {
 	background: $darkGray;
   font: 18px/1.4 $helvetica;
