@@ -22,13 +22,13 @@ footer-links:
   facebook:
   flickr:
   github: Pyrublaze/Pyrublaze.github.io
-  instagram:
+  instagram: pyrublaze
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: pyrublaze
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCEdXvgb1KWLIf_JOEObNmhg
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
