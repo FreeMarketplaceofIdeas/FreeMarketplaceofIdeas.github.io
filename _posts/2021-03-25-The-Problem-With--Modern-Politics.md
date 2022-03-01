@@ -5,6 +5,8 @@ date: 2021-03-25
 author: "Jonathan Barazzutti (Pyrublaze)"
 ---
 
+![Post-Truth](/images/Post_Truth_Vox.jpg)
+
 Have you noticed that many media sources that claim to be objective are actually misinformation networks? Have you noticed that people today are more polarized than they have been in decades? Have you noticed that people are trusting less and less in our fundamental academic and governmental institutions? Have you noticed that your political opposition is extremely misinformed on very basic issues?
 
 We’re living in a very unique time. People will look back at this part of history and note the rise of technology and the internet as a pivotal point in the development of our civilization. But what if I told you that these developments were affecting the way that political discourse and influence happens? There’s a word for this phenomenon, but before I explain it all to you, let me tell you a story.
