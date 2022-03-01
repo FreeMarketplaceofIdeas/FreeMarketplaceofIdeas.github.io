@@ -38,14 +38,23 @@ As someone who is interested in politics and who has been harmed as a result of 
 Almost everyone should want a world where political discourse is dominated by fact rather than fiction, where emotional and rhetorical appeals take a secondary role behind factual appeals, where our institutions reflect the values of honest reporting, and where at the end of the day, the primary political divide is not one of differing factual understandings, but one of differing values. We do not need to become luddites to achieve this world. What we need are simple, effective solutions which deal with the underlying causes of the post-truth condition our society is in. The first step to solving a problem is to acknowledge that it exists. We know the problems that pervade politics today. Now it’s our time to solve them.
 
 Sources/Resources
-Post-Truth: https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-757
+
+Post-Truth: [https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-757(https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-757)
 
 Debunking my Former Talking Points
-Welfare and culture of poverty: https://drive.google.com/drive/u/1/folders/1HdrJ6ylw-slSN-1Oj69CpJUkWZMwxXCF (Encyclopedia of Political Economy Culture of poverty article on pages 207-210)
-Systemic racism: (See my YouTube video on this it has extensive sources backing it up) https://www.youtube.com/watch?v=TwCiUlKTyCI
-Homosexuality: https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-wellbeing-of-children-with-gay-or-lesbian-parents/
-Trans Issues: https://www.apa.org/about/policy/resolution-gender-identity.pdf (General resource on transgender issues by the American Psychological Association, affirms the legitimacy of trans people)
+
+Welfare and culture of poverty: [https://drive.google.com/drive/u/1/folders/1HdrJ6ylw-slSN-1Oj69CpJUkWZMwxXCF](https://drive.google.com/drive/u/1/folders/1HdrJ6ylw-slSN-1Oj69CpJUkWZMwxXCF)(Encyclopedia of Political Economy Culture of poverty article on pages 207-210)
+
+Systemic racism: (See my YouTube video on this it has extensive sources backing it up) [https://www.youtube.com/watch?v=TwCiUlKTyCI](https://www.youtube.com/watch?v=TwCiUlKTyCI)
+
+Homosexuality: [https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-wellbeing-of-children-with-gay-or-lesbian-parents/](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-wellbeing-of-children-with-gay-or-lesbian-parents/)
+
+Trans Issues: [https://www.apa.org/about/policy/resolution-gender-identity.pdf](https://www.apa.org/about/policy/resolution-gender-identity.pdf) (General resource on transgender issues by the American Psychological Association, affirms the legitimacy of trans people)
+
+
 
 Other Resources
-https://www.youtube.com/channel/UCEdXvgb1KWLIf_JOEObNmhg (My YouTube channel)
-https://discord.gg/qRqRs8SH52 (My Discord server in case u want to debate other people or me)
+
+[https://www.youtube.com/channel/UCEdXvgb1KWLIf_JOEObNmhg](https://www.youtube.com/channel/UCEdXvgb1KWLIf_JOEObNmhg) (My YouTube channel)
+
+[https://discord.gg/qRqRs8SH52](https://discord.gg/qRqRs8SH52) (My Discord server in case u want to debate other people or me)
