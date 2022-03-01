@@ -2,6 +2,7 @@
 layout: post
 title: The Problem With Modern Politics
 date: 2021-03-25
+author: "Jonathan Barazzutti (Pyrublaze)"
 ---
 
 Have you noticed that many media sources that claim to be objective are actually misinformation networks? Have you noticed that people today are more polarized than they have been in decades? Have you noticed that people are trusting less and less in our fundamental academic and governmental institutions? Have you noticed that your political opposition is extremely misinformed on very basic issues?
